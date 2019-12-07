@@ -1,6 +1,6 @@
 # Summary
 
-* [Linux学习](README.md)
+* [读我](README.md)
 * [基本原理](docs/基本原理.md)
 * [Linux内核](docs/Linux内核.md)
 * [系统安装](docs/系统安装.md)
@@ -106,4 +106,3 @@
     * [运维:《 鸟哥的Linux私房菜-基础学习篇 》](docs/linux相关书籍/鸟哥的Linux私房菜基础学习篇.md)
     * [运维:《 鸟哥的Linux私房菜-服务器架设篇 》](docs/linux相关书籍/鸟哥的Linux私房菜服务器架设篇.md)
     * [运维:《 深度探索Linux操作系统:系统构建和原理解析 》- 王柏生](docs/linux相关书籍/深度探索Linux操作系统-系统构建和原理解析.md)
-
