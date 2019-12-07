@@ -1,4 +1,3 @@
-
 # Linux学习笔记
 
 ## 本仓库内容
@@ -12,16 +11,13 @@ First, please watch or star this repo, I'll be more happy if you follow me.
 Bug report, questions and discussion are welcome, you can post an issue or pull a request.
 ```
 
-
 ## 相关站点
 
-* GitHub地址:<https://github.com/yifengyou/learn-linux>
-
-* GibBook地址:<https://yifengyou.gitbooks.io/learn-linux/content/>
+* GitHub : <https://github.com/yifengyou/learn-linux>
+* GibBook : <https://yifengyou.gitbooks.io/learn-linux/content/>
+* GitPage : <https://yifengyou.github.io/learn-linux/>
 
 ## 目录
-
-# Summary
 
 * [基本原理](docs/基本原理.md)
 * [Linux内核](docs/Linux内核.md)
@@ -68,7 +64,7 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [Linux内核面试300题](docs/教程/Linux内核面试300题.md)
 * [linux相关书籍](docs/linux相关书籍.md)
     * [内核:《 奔跑吧 Linux内核:基于Linux 4.x内核源代码问题分析 》- 张天飞](docs/linux相关书籍/奔跑吧Linux内核.md)
-    * [内核:《 Linux设备驱动开发详解:基于最新的Linux 4.0内核 》- 宋宝华](docs/linux相关书籍/Linux设备驱动开发详解-基于最新的Linux 4.0内核.md)
+    * [内核:《 Linux设备驱动开发详解:基于最新的Linux 4.0内核 》- 宋宝华](docs/linux相关书籍/Linux设备驱动开发详解-基于最新的Linux4.0内核.md)
     * [内核:《 Linux内核完全注释 》- 赵炯](docs/linux相关书籍/Linux内核完全注释.md)
     * [内核:《 Linux那些事儿之我是USB 》- 任桥伟](docs/linux相关书籍/Linux那些事儿之我是USB.md)
     * [内核:《 Linux内核源代码情景分析 》](docs/linux相关书籍/Linux内核源代码情景分析.md)
@@ -130,23 +126,11 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [运维:《 深度探索Linux操作系统:系统构建和原理解析 》- 王柏生](docs/linux相关书籍/深度探索Linux操作系统-系统构建和原理解析.md)
 
 
-
 ## 思维导图
 
 ![1533558956795.png](image/1533558956795.png)
 
 ![1533558968576.png](image/1533558968576.png)
-
-
-
-
-## 参考博客
-
-
-
-## 参考教程
-
-马哥运维2017版
 
 
 ## 总结
