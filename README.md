@@ -1,9 +1,12 @@
-# Linux学习笔记
+# Linux 学习笔记
+
+![20200206_115630_90](image/20200206_115630_90.png)
 
 ## 本仓库内容
 
-1. Linux学习笔记
-2. Linux学习笔记面试题
+1. Linux 学习笔记
+2. Linux 面试题
+3. Linux 相关书籍
 
 ```
 Something I hope you know before go into the coding~
@@ -19,6 +22,8 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 
 ## 目录
 
+**Linux运维基础**
+
 * [基本原理](docs/基本原理.md)
 * [Linux内核](docs/Linux内核.md)
 * [系统安装](docs/系统安装.md)
@@ -33,6 +38,11 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 * [目录管理](docs/目录管理.md)
 * [用户与用户组管理](docs/用户与用户组管理.md)
 * [磁盘管理](docs/磁盘管理.md)
+    * [基本概念](docs/磁盘管理/基本概念.md)
+    * [常用命令](docs/磁盘管理/常用命令.md)
+        * [losetup挂载回环设备](docs/磁盘管理/常用命令/losetup.md)
+        * [kpartx](docs/磁盘管理/常用命令/kpartx.md)
+        * [dmsetup](docs/磁盘管理/常用命令/dmsetup.md)
 * [打包压缩解压](docs/打包压缩解压.md)
     * [tar打包](docs/打包压缩解压/tar打包.md)
 * [软件包管理](docs/软件包管理.md)
@@ -62,6 +72,19 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [马哥2016linux就业班目录](docs/教程/马哥2016linux就业班目录.md)
     * [马哥2016linux架构班目录](docs/教程/马哥2016linux架构班目录.md)
     * [Linux内核面试300题](docs/教程/Linux内核面试300题.md)
+
+**Linux内核**
+
+* [linux内核](docs/linux内核.md)
+    * [网络](docs/linux内核/网络.md)
+    * [存储](docs/linux内核/存储.md)
+    * [计算](docs/linux内核/计算.md)
+    * [虚拟化](docs/linux内核/虚拟化.md)
+
+
+
+**Linux书籍**
+
 * [linux相关书籍](docs/linux相关书籍.md)
     * [内核:《 奔跑吧 Linux内核:基于Linux 4.x内核源代码问题分析 》- 张天飞](docs/linux相关书籍/奔跑吧Linux内核.md)
     * [内核:《 Linux设备驱动开发详解:基于最新的Linux 4.0内核 》- 宋宝华](docs/linux相关书籍/Linux设备驱动开发详解-基于最新的Linux4.0内核.md)
@@ -126,16 +149,10 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [运维:《 深度探索Linux操作系统:系统构建和原理解析 》- 王柏生](docs/linux相关书籍/深度探索Linux操作系统-系统构建和原理解析.md)
 
 
-## 思维导图
+## 经典图示
 
-![1533558956795.png](image/1533558956795.png)
+![20200206_120104_66](image/20200206_120104_66.png)
 
-![1533558968576.png](image/1533558968576.png)
+![20200206_115832_99](image/20200206_115832_99.png)
 
-
-## 总结
-
-```
-1. 懂汇编的娃才能学好C语言~
-2. 基础永远值得花费90%的精力去学习加强~
-```
+![20200206_115847_96](image/20200206_115847_96.png)
