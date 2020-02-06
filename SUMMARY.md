@@ -20,6 +20,9 @@
         * [losetup挂载回环设备](docs/磁盘管理/常用命令/losetup.md)
         * [kpartx](docs/磁盘管理/常用命令/kpartx.md)
         * [dmsetup](docs/磁盘管理/常用命令/dmsetup.md)
+        * [parted](docs/磁盘管理/常用命令/parted.md)
+        * [fdisk](docs/磁盘管理/常用命令/fdisk.md)
+        * [partx](docs/磁盘管理/常用命令/partx.md)
 * [打包压缩解压](docs/打包压缩解压.md)
     * [tar打包](docs/打包压缩解压/tar打包.md)
 * [软件包管理](docs/软件包管理.md)
@@ -115,4 +118,3 @@
     * [运维:《 鸟哥的Linux私房菜-基础学习篇 》](docs/linux相关书籍/鸟哥的Linux私房菜基础学习篇.md)
     * [运维:《 鸟哥的Linux私房菜-服务器架设篇 》](docs/linux相关书籍/鸟哥的Linux私房菜服务器架设篇.md)
     * [运维:《 深度探索Linux操作系统:系统构建和原理解析 》- 王柏生](docs/linux相关书籍/深度探索Linux操作系统-系统构建和原理解析.md)
-
