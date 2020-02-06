@@ -17,6 +17,7 @@
 * [磁盘管理](docs/磁盘管理.md)
     * [基本概念](docs/磁盘管理/基本概念.md)
     * [常用命令](docs/磁盘管理/常用命令.md)
+        * [mount](docs/磁盘管理/常用命令/mount.md)
         * [losetup挂载回环设备](docs/磁盘管理/常用命令/losetup.md)
         * [kpartx](docs/磁盘管理/常用命令/kpartx.md)
         * [dmsetup](docs/磁盘管理/常用命令/dmsetup.md)

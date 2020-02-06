@@ -40,9 +40,13 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 * [磁盘管理](docs/磁盘管理.md)
     * [基本概念](docs/磁盘管理/基本概念.md)
     * [常用命令](docs/磁盘管理/常用命令.md)
+        * [mount](docs/磁盘管理/常用命令/mount.md)
         * [losetup挂载回环设备](docs/磁盘管理/常用命令/losetup.md)
         * [kpartx](docs/磁盘管理/常用命令/kpartx.md)
         * [dmsetup](docs/磁盘管理/常用命令/dmsetup.md)
+        * [parted](docs/磁盘管理/常用命令/parted.md)
+        * [fdisk](docs/磁盘管理/常用命令/fdisk.md)
+        * [partx](docs/磁盘管理/常用命令/partx.md)
 * [打包压缩解压](docs/打包压缩解压.md)
     * [tar打包](docs/打包压缩解压/tar打包.md)
 * [软件包管理](docs/软件包管理.md)
@@ -156,3 +160,5 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 ![20200206_115832_99](image/20200206_115832_99.png)
 
 ![20200206_115847_96](image/20200206_115847_96.png)
+
+![20200206_204901_19](image/20200206_204901_19.png)
