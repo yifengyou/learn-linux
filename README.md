@@ -18,7 +18,7 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 
 **Linux书籍**
 
-* [linux相关书籍](docs/linux相关书籍.md)
+* [内核态相关](docs/内核态相关.md)
     * [内核:《 奔跑吧 Linux内核:基于Linux 4.x内核源代码问题分析 》- 张天飞](docs/linux相关书籍/奔跑吧Linux内核.md)
     * [内核:《 Linux设备驱动开发详解:基于最新的Linux 4.0内核 》- 宋宝华](docs/linux相关书籍/Linux设备驱动开发详解-基于最新的Linux4.0内核.md)
     * [内核:《 Linux内核完全注释 》- 赵炯](docs/linux相关书籍/Linux内核完全注释.md)
@@ -70,6 +70,11 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [内核:《 莱昂氏UNIX源代码分析 》-尤晋元](docs/linux相关书籍/莱昂氏UNIX源代码分析.md)
     * [内核:《 边学边干linux内核指导 》-李善平](docs/linux相关书籍/边学边干linux内核指导.md)
     * [内核:《 追踪Linux TCP IP代码运行:基于2.6内核 》-秦健](docs/linux相关书籍/追踪LinuxTCPIP代码运行.md)
+    * [内核:《 Linux内核观测技术BPF 》- David Calavera](docs/linux相关书籍/Linux内核观测技术BPF.md)
+    * [内核:《 Linux内核分析及应用 》- 陈科](docs/linux相关书籍/Linux内核分析及应用.md)
+
+
+* [用户态相关](docs/用户态相关.md)
     * [编程:《 深入理解程序设计使用Linux汇编语言 》-郭晴霞译](docs/linux相关书籍/深入理解程序设计使用Linux汇编语言.md)
     * [编程:《 Linux内核编程 》- 罗德里格斯著.陈莉君译](docs/linux相关书籍/Linux内核编程.md)
     * [编程:《 Linux内核编程指南第3版 》- 张瑜](docs/linux相关书籍/Linux内核编程指南第3版.md)
