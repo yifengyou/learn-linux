@@ -1,12 +1,6 @@
-# Linux 学习笔记
+# Linux 相关书籍
 
 ![20200206_115630_90](image/20200206_115630_90.png)
-
-## 本仓库内容
-
-1. Linux 学习笔记
-2. Linux 面试题
-3. Linux 相关书籍
 
 ```
 Something I hope you know before go into the coding~
@@ -21,71 +15,6 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 * GitPage : <https://yifengyou.github.io/learn-linux/>
 
 ## 目录
-
-**Linux运维基础**
-
-* [基本原理](docs/基本原理.md)
-* [Linux内核](docs/Linux内核.md)
-* [系统安装](docs/系统安装.md)
-    * [网络安装](docs/系统安装/网络安装.md)
-* [远程登录](docs/远程登录.md)
-    * [SSH](docs/远程登录/SSH.md)
-    * [Teamviewer](docs/远程登录/Teamviewer.md)
-    * [VNC](docs/远程登录/VNC.md)
-    * [SPICE](docs/远程登录/SPICE.md)
-    * [RDP](docs/远程登录/RDP.md)
-* [文件管理](docs/文件管理.md)
-* [目录管理](docs/目录管理.md)
-* [用户与用户组管理](docs/用户与用户组管理.md)
-* [磁盘管理](docs/磁盘管理.md)
-    * [基本概念](docs/磁盘管理/基本概念.md)
-    * [常用命令](docs/磁盘管理/常用命令.md)
-        * [mount](docs/磁盘管理/常用命令/mount.md)
-        * [losetup挂载回环设备](docs/磁盘管理/常用命令/losetup.md)
-        * [kpartx](docs/磁盘管理/常用命令/kpartx.md)
-        * [dmsetup](docs/磁盘管理/常用命令/dmsetup.md)
-        * [parted](docs/磁盘管理/常用命令/parted.md)
-        * [fdisk](docs/磁盘管理/常用命令/fdisk.md)
-        * [partx](docs/磁盘管理/常用命令/partx.md)
-* [打包压缩解压](docs/打包压缩解压.md)
-    * [tar打包](docs/打包压缩解压/tar打包.md)
-* [软件包管理](docs/软件包管理.md)
-    * [rpm](docs/软件包管理/rpm.md)
-    * [yum](docs/软件包管理/yum.md)
-    * [deb](docs/软件包管理/deb.md)
-    * [apt](docs/软件包管理/apt.md)
-* [shell脚本](docs/shell脚本.md)
-* [文本编辑](docs/文本编辑.md)
-    * [vim](docs/文本编辑/vim.md)
-    * [sed](docs/文本编辑/sed.md)
-    * [awk](docs/文本编辑/awk.md)
-    * [grep](docs/文本编辑/grep.md)
-* [服务配置](docs/服务配置.md)
-    * [ftp服务](docs/服务配置/ftp服务.md)
-    * [samba服务](docs/服务配置/samba服务.md)
-    * [nfs服务](docs/服务配置/nfs服务.md)
-    * [Nginx服务](docs/服务配置/Nginx服务.md)
-    * [MySQL数据库](docs/服务配置/MySQL数据库.md)
-* [Linux防火墙](docs/Linux防火墙.md)
-    * [iptables](docs/Linux防火墙/iptables.md)
-    * [selinux](docs/Linux防火墙/selinux.md)
-* [虚拟化](docs/虚拟化.md)
-    * [qemu-kvm](docs/虚拟化/qemu-kvm.md)
-    * [docker](docs/虚拟化/docker.md)
-* [教程](docs/教程.md)
-    * [马哥2016linux就业班目录](docs/教程/马哥2016linux就业班目录.md)
-    * [马哥2016linux架构班目录](docs/教程/马哥2016linux架构班目录.md)
-    * [Linux内核面试300题](docs/教程/Linux内核面试300题.md)
-
-**Linux内核**
-
-* [linux内核](docs/linux内核.md)
-    * [网络](docs/linux内核/网络.md)
-    * [存储](docs/linux内核/存储.md)
-    * [计算](docs/linux内核/计算.md)
-    * [虚拟化](docs/linux内核/虚拟化.md)
-
-
 
 **Linux书籍**
 
@@ -151,14 +80,3 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [运维:《 鸟哥的Linux私房菜-基础学习篇 》](docs/linux相关书籍/鸟哥的Linux私房菜基础学习篇.md)
     * [运维:《 鸟哥的Linux私房菜-服务器架设篇 》](docs/linux相关书籍/鸟哥的Linux私房菜服务器架设篇.md)
     * [运维:《 深度探索Linux操作系统:系统构建和原理解析 》- 王柏生](docs/linux相关书籍/深度探索Linux操作系统-系统构建和原理解析.md)
-
-
-## 经典图示
-
-![20200206_120104_66](image/20200206_120104_66.png)
-
-![20200206_115832_99](image/20200206_115832_99.png)
-
-![20200206_115847_96](image/20200206_115847_96.png)
-
-![20200206_204901_19](image/20200206_204901_19.png)
