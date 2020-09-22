@@ -10,10 +10,9 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 
 ## 目录
 
-* [linux内核](docs/linux内核.md)
-    * [网络](docs/linux内核/网络.md)
-    * [存储](docs/linux内核/存储.md)
-    * [IO](docs/linux内核/IO.md)
-        * [输入与输出-如何建立售前售后生态体系](docs/linux内核/IO/输入与输出-如何建立售前售后生态体系.md)
-        * [字符设备1-如何建立直销模式](docs/linux内核/IO/字符设备1-如何建立直销模式.md)
-        * [字符设备2-如何建立直销模式](docs/linux内核/IO/字符设备2-如何建立直销模式.md)
+* [经验之谈](docs/经验之谈.md)
+* [CPU性能](docs/CPU性能.md)
+    * [如何理解平均负载](docs/CPU性能/如何理解平均负载.md)
+* [内存性能](docs/内存性能.md)
+* [IO性能](docs/IO性能.md)
+* [网络性能](docs/网络性能.md)
