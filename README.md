@@ -23,6 +23,8 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [案例篇-系统的软中断CPU使用率升高该怎么办](docs/CPU性能/案例篇-系统的软中断CPU使用率升高该怎么办.md)
     * [套路篇-如何迅速分析出系统CPU的瓶颈在哪里](docs/CPU性能/套路篇-如何迅速分析出系统CPU的瓶颈在哪里.md)
     * [套路篇-CPU性能优化的几个思路](docs/CPU性能/套路篇-CPU性能优化的几个思路.md)
+    * [答疑篇-无法模拟出RES中断问题](docs/CPU性能/答疑篇-无法模拟出RES中断问题.md)
+    * [答疑篇-使用perf工具分析Java问题](docs/CPU性能/答疑篇-使用perf工具分析Java问题.md)
 * [内存性能](docs/内存性能.md)
 * [IO性能](docs/IO性能.md)
 * [网络性能](docs/网络性能.md)
@@ -33,3 +35,4 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
     * [ifstat](docs/诊断工具/ifstat.md)
     * [sysstat](docs/诊断工具/sysstat.md)
     * [dstat](docs/诊断工具/dstat.md)
+    * [execsnoop](docs/诊断工具/execsnoop.md)
