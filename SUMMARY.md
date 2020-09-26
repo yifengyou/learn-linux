@@ -18,6 +18,9 @@
     * [答疑篇-使用perf工具分析Java问题](docs/CPU性能/答疑篇-使用perf工具分析Java问题.md)
 * [内存性能](docs/内存性能.md)
     * [基础篇-Linux内存是怎么工作的](docs/内存性能/基础篇-Linux内存是怎么工作的.md)
+    * [基础篇-怎么理解内存中的Buffer和Cache](docs/内存性能/基础篇-怎么理解内存中的Buffer和Cache.md)
+    * [案例篇-如何利用系统缓存优化程序的运行效率](docs/内存性能/案例篇-如何利用系统缓存优化程序的运行效率.md)
+    * [案例篇-内存泄漏了该如何定位和处理](docs/内存性能/案例篇-内存泄漏了该如何定位和处理.md)
 * [IO性能](docs/IO性能.md)
 * [网络性能](docs/网络性能.md)
 * [模拟工具](docs/模拟工具.md)
@@ -33,3 +36,4 @@
     * [execsnoop](docs/诊断工具/execsnoop.md)
     * [stress](docs/诊断工具/stress.md)
     * [pmap](docs/诊断工具/pmap.md)
+
